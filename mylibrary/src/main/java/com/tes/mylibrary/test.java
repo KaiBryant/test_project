@@ -1,9 +1,6 @@
 package com.tes.mylibrary;
 
-import android.app.Dialog;
-import android.support.v4.widget.NestedScrollView;
-import android.view.View;
-import android.widget.AbsListView;
+import androidx.core.widget.NestedScrollView;
 
 /**
  * 功能介绍：
